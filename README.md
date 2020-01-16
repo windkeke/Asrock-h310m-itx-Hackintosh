@@ -20,7 +20,7 @@
 
 **Mac OS Catalina**
 
-![截屏2020-01-16下午8.29.50](/Users/gm/Desktop/截屏2020-01-16下午8.29.50.png)
+![截屏2020-01-16下午8.29.50](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/tree/master/images/截屏2020-01-16下午8.29.50.png)
 
 **板载有线网卡驱动正常**
 
