@@ -20,7 +20,7 @@
 
 **Mac OS Catalina**
 
-![system_msg.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/raw/master/images/system_msg.png)
+![system_msg.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/blob/master/images/system_msg.png)
 
 **板载有线网卡驱动正常**
 
