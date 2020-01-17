@@ -20,7 +20,7 @@
 
 **Mac OS Catalina**
 
-![截屏2020-01-16下午6.23.13.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/blob/master/images/截屏2020-01-16下午6.23.13.png)
+![system_msg.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/blob/master/images/system_msg.png)
 
 **板载有线网卡驱动正常**
 
@@ -39,7 +39,8 @@
 
 
 **硬件编解码正常**
-![system_msg.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/blob/master/images/system_msg.png)
+
+![截屏2020-01-16下午6.23.13.png](https://github.com/ROSstudy/Asrock-h310m-itx-Hackintosh/blob/master/images/截屏2020-01-16下午6.23.13.png)
 
 
 **休眠正常**
